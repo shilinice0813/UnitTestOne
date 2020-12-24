@@ -1,5 +1,0 @@
-CREATE TABLE blog (
-  id VARCHAR(36) PRIMARY KEY,
-  title VARCHAR(64) NOT NULL,
-  content VARCHAR(64) NOT NULL
-);
